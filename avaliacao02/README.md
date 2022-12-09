@@ -1,4 +1,5 @@
-# Avaliação 2 de IA
+# ![Group 12](https://user-images.githubusercontent.com/13178261/206621563-fb94e2b3-da9f-4db6-8e8c-bf5ad8d0b0ef.png)
+
 
 ## Links Rápidos
 
