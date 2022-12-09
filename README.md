@@ -1,5 +1,9 @@
 # Avaliação final de IA
 
+- [Avaliação 1 de IA](https://github.com/filipecancio/final-ia/tree/main/avaliacao01)
+- [Avaliação 2 de IA](https://github.com/filipecancio/final-ia/tree/main/avaliacao02)
+
+
 ## Introdução
 Este trabalho destina-se a avaliar os alunos da disciplina de INTELIGÊNCIA ARTIFICIAL em relação ao conteúdo e práticas
 compreendidos em sala de aula. Especificamente, deve ser entregue o programa, ASSISTENTE VIRTUAL ou CHATTERBOT, que

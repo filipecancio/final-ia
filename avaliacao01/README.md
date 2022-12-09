@@ -1,10 +1,17 @@
-## Avaliação 1 de IA
+# Avaliação 1 de IA
+
+## Links Rápidos
+
+- [Avaliação final de IA](https://github.com/filipecancio/final-ia)
+- [Avaliação 2 de IA](https://github.com/filipecancio/final-ia/tree/main/avaliacao02)
 
 ## Introdução
+
 Este trabalho destina-se a avaliar os alunos da disciplina de INTELIGÊNCIA ARTIFICIAL em relação ao conteúdo e práticas
 compreendidos em sala de aula. Especificamente, deve ser criado um SISTEMA INTELIGENTE na forma de um ASSISTENTE
 VIRTUAL.
 ## Escopo do trabalho
+
 O trabalho deve ser realizado INDIVIDUALMENTE. Ele consiste na concretização de um ASSISTENTE VIRTUAL escrito na
 linguagem PYTHON. Para tanto, inicialmente, o desenvolvedor deve propor um mini-mundo no qual o assistente virtual seja utilizado
 para automatizar comandos vocais. É obrigatório que:
@@ -12,7 +19,9 @@ a. Todos os comandos reconhecidos pelo assistente seja configurado/processado co
 configuração JSON, que seja externo ao script de execução;
 b. O assistente seja composto do uso de sensores (microfone, pelo menos) e atuadores, que são itens básicos de
 SISTEMAS INTELIGENTES.
+
 ## Instruções gerais
+
 As seguintes instruções devem ser atentamente observadas e cumpridas:
 1. O aluno deve escolher o tema do seu trabalho e enviar para o meu e-mail (luispscarvalho@gmail.com) sua decisão o
 quanto antes e até o dia 03/10/2022. A partir daí deverei acompanhar o andamento dos trabalhos. O acompanhamento

@@ -1,5 +1,9 @@
 # Avaliação 2 de IA
 
+## Links Rápidos
+
+- [Avaliação final de IA](https://github.com/filipecancio/final-ia)
+- [Avaliação 1 de IA](https://github.com/filipecancio/final-ia/tree/main/avaliacao01)
 
 ## Introdução
 
