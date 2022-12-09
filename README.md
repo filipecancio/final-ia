@@ -1,14 +1,14 @@
 # Avaliação final de IA
 
-## 1. Introdução
+## Introdução
 Este trabalho destina-se a avaliar os alunos da disciplina de INTELIGÊNCIA ARTIFICIAL em relação ao conteúdo e práticas
 compreendidos em sala de aula. Especificamente, deve ser entregue o programa, ASSISTENTE VIRTUAL ou CHATTERBOT, que
 não foi entregue ou que não obteve aprovação acima da média.
-## 2. Escopo do trabalho
+## Escopo do trabalho
 O trabalho deve ser realizado INDIVIDUALMENTE. Ele consiste na concretização de uma solução completa de ASSISTENTE
 VIRTUAL e/ou CHATTERBOT, que não foi entregue ou que não obteve aprovação acima da média, escrito em linguagem de
 programação PYTHON, devendo estar restrito aos conteúdos teóricos e práticos vistos durante as aulas.
-## 3. Instruções gerais
+## Instruções gerais
 As seguintes instruções devem ser atentamente observadas e cumpridas:
 - Se você NÃO entregou completamente ou NÃO conseguiu uma nota acima da média na entrega do seu ASSISTENTE
 VIRTUAL, você deverá entregar SOMENTE a versão completa, funcionando sem erros, do ASSISTENTE VIRTUAL;
@@ -26,10 +26,9 @@ obedecer a tudo que está definido e explicado nos respectivos descritivos.
  - O código-fonte do ASSISTENTE VIRTUAL ou CHATTERBOT escrito em linguagem PYTHON;
  - Um vídeo contendo uma apresentação do tema e do funcionamento do ASSISTENTE VIRTUAL ou CHATTERBOT.
  
- > ATENÇÃO (IMPORTANTE): A ocorrência de plágio (cópia de outros trabalhos) será punida, com o aluno obtendo uma nota ZERO. A
-ocorrência também será notificada à coordenação do curso.
- 
 ## Barema
+> ATENÇÃO (IMPORTANTE): A ocorrência de plágio (cópia de outros trabalhos) será punida, com o aluno obtendo uma nota ZERO. A ocorrência também será notificada à coordenação do curso.
+ 
 O cálculo da nota da avaliação obedecerá à fórmula:
 
 | NOTA FINAL | |
